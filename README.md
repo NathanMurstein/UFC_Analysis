@@ -1,5 +1,6 @@
 # UFC_Analysis
-Project Information:
+
+Go to notebook: https://github.com/NathanMurstein/UFC_Analysis/blob/c69a68ca6513f262e9ab288ab90c1a926a299dc3/UFC%20Analysis-NM.ipynb
 
 Research Questions:
 1.	Does “home field advantage” really exist in the UFC, and is the effect of fighting closer to one’s home city statistically significant?
